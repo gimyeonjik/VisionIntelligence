@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Training artifacts
+checkpoints/
+data/
+*.pt
+*.pth
+*.json
+!src/__init__.py
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
