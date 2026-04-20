@@ -42,8 +42,8 @@ pip install -r requirements.txt
 
 ## Train
 ```
-# Set Seed you want to set to n
-python3 train.py --seed {n} --save_dir ./checkpoints/seed{n}
+# Set Seed you want to set to N
+python3 train.py --seed {N} --save_dir ./checkpoints/seed{N}
 ```
 
 ## Evaluation
