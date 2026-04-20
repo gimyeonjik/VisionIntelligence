@@ -48,5 +48,5 @@ python3 train.py --seed {N} --save_dir ./checkpoints/seed{N}
 
 ## Evaluation
 ```
-python3 evaluate.py --checkpoint ./checkpoints/seed{n}/stage2_best.pt --data_root ./data
+python3 evaluate.py --checkpoint ./checkpoints/seed{N}/stage2_best.pt --data_root ./data
 ```
