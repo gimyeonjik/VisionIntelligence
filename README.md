@@ -8,7 +8,7 @@ approximately 24 hours per run.
 
 ## Structure
 ```
-DHVT-CIFAR100/
+VisionIntelligence/
 ├── src/
 │   ├── __init__.py
 │   ├── dhvt.py
@@ -33,9 +33,9 @@ DHVT-CIFAR100/
 
 ## Installation
 ```
-git clone https://github.com/gimyeonjik/DHVT-CIFAR100.git
+git clone https://github.com/gimyeonjik/VisionIntelligence.git
 
-cd DHVT-CIFAR100
+cd VisionIntelligence
 
 pip install -r requirements.txt
 ```
