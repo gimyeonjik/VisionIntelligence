@@ -23,7 +23,7 @@ VisionIntelligence/
 └── .gitignore
 ```
 
-## Results (Updating...)
+## Results
 | Seed | Top-1 Accuracy | Super-Class Accuracy |
 |------|---------------:|---------------------:|
 | 0    | 85.19%         | 90.92%               |
